@@ -1,0 +1,65 @@
+.navbar {
+    background-color: #0b2239;
+}
+.input-group {
+    height: 65px;
+}
+.eon{
+    width: 75px;
+    background-color: #4ad295;
+}
+.dun{
+    background-color: #f8fafb;
+}
+.form-control{
+    background-color: #f0f1f3;
+    border-right: 0px;
+}
+.form-select{
+    width: auto !important;
+}
+.vvv{
+    width: 65px;
+    background-color: #e9ecef;
+    border: 0px;
+}
+.btn-success{
+    background-color: #4ad295;
+    border: 0px;
+}
+.xyz{
+    background-color: lightskyblue;
+}
+.xyz2{
+    background-color: lightsteelblue;
+}
+a {
+    text-decoration: none !important;
+    color: black ;
+}
+.dra {
+    background-color: #0b2239;
+}
+.hhf{
+    border-radius: 10px;
+}
+.txt{
+    color: #4a6375;
+}
+.las{
+    color: #0e2a47;
+}
+.ppe {
+    text-align: end;
+}
+.imghover:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
+.far{
+    position: absolute;
+    width: 100%;
+}
+.ppp {
+    text-align: start;
+}
